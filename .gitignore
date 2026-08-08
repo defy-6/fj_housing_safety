@@ -1,0 +1,53 @@
+# macOS and editor metadata
+.DS_Store
+*.swp
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Dependencies and generated frontend output
+**/node_modules/
+**/.next/
+**/.vinext/
+**/.vite/
+**/.wrangler/
+**/dist/
+**/coverage/
+apps/web/.project-location
+
+# Local runtime state and temporary files
+runtime/
+tmp/
+*.log
+*.pid
+
+# Source datasets and local databases are not published
+data/raw/**/*.pdf
+data/raw/**/*.xlsx
+data/raw/**/*.xls
+data/raw/**/*.csv
+data/raw/**/*.gpkg
+database/*.sqlite
+database/*.sqlite3
+database/*.db
+database/*.bak
+
+# Generated deliverables
+outputs/*
+!outputs/README.md
+backend/outputs/*
+!backend/outputs/README.md
+
+# Local migration packages
+release/
+
+# Python virtual environments
+**/.venv/
+
+# AI session records
+.reasonix/
+reasonix.toml
+

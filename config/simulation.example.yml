@@ -1,0 +1,14 @@
+scenario: test_5pct
+base_year: 2024
+target_years: [2025, 2026]
+fluctuation:
+  min: -0.05
+  max: 0.05
+random_seed: 20242026
+rules:
+  build_from_lowest_region_level: true
+  aggregate_parent_regions: true
+  clamp_counts_to_nonnegative_integer: true
+  clamp_ratios_to_0_1: true
+  preserve_category_parent_constraints: true
+  mark_simulated_records: true

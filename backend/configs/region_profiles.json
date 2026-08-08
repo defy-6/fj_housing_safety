@@ -1,0 +1,16 @@
+{
+  "350100": {
+    "region_name": "福州市",
+    "region_level": "city",
+    "official_overview": "福建省会城市，辖六区六县一市，房屋安全排查与整治任务集中。",
+    "priority_indicator_codes": ["basic.c026", "basic.c003", "basic.c027"],
+    "focus": ["经营性自建房", "人员密集场所"]
+  },
+  "350200": {
+    "region_name": "厦门市",
+    "region_level": "city",
+    "official_overview": "经济特区，城市化率高，老旧房屋与自建房并存。",
+    "priority_indicator_codes": ["basic.c026", "basic.c007"],
+    "focus": ["历史建筑", "老旧房屋"]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "meta": {
+    "purpose": "非标准区县源数据单元业务展示点",
+    "accuracy": "approximate_center",
+    "note": "点位依据公开资料中的所属乡镇、片区或园区位置确定，仅用于数据展示，不代表行政边界或法定驻地。"
+  },
+  "features": [
+    {"type":"Feature","properties":{"name":"东侨经济开发区","city":"宁德市","kind":"经济开发区","sourceUnitKey":"宁德市|东侨经济开发区"},"geometry":{"type":"Point","coordinates":[119.552,26.672]}},
+    {"type":"Feature","properties":{"name":"北岸经济开发区","city":"莆田市","kind":"经济开发区","sourceUnitKey":"莆田市|北岸经济开发区"},"geometry":{"type":"Point","coordinates":[119.184,25.105]}},
+    {"type":"Feature","properties":{"name":"湄洲岛","city":"莆田市","kind":"旅游度假区","sourceUnitKey":"莆田市|湄洲岛"},"geometry":{"type":"Point","coordinates":[119.119,25.086]}},
+    {"type":"Feature","properties":{"name":"南平市工业园区","city":"南平市","kind":"工业园区","sourceUnitKey":"南平市|南平市工业园区"},"geometry":{"type":"Point","coordinates":[118.205,26.623]}},
+    {"type":"Feature","properties":{"name":"荣华山产业组团","city":"南平市","kind":"产业组团","sourceUnitKey":"南平市|荣华山产业组团"},"geometry":{"type":"Point","coordinates":[118.471,27.948]}},
+    {"type":"Feature","properties":{"name":"厦龙合作区","city":"龙岩市","kind":"合作园区","sourceUnitKey":"龙岩市|厦龙合作区"},"geometry":{"type":"Point","coordinates":[117.035,25.053]}},
+    {"type":"Feature","properties":{"name":"龙岩市经济技术开发区","city":"龙岩市","kind":"经济开发区","sourceUnitKey":"龙岩市|龙岩市经济技术开发区"},"geometry":{"type":"Point","coordinates":[117.012,25.024]}},
+    {"type":"Feature","properties":{"name":"古雷开发区","city":"漳州市","kind":"经济开发区","sourceUnitKey":"漳州市|古雷开发区"},"geometry":{"type":"Point","coordinates":[117.621,23.823]}},
+    {"type":"Feature","properties":{"name":"常山开发区","city":"漳州市","kind":"经济开发区","sourceUnitKey":"漳州市|常山开发区"},"geometry":{"type":"Point","coordinates":[117.445,23.964]}},
+    {"type":"Feature","properties":{"name":"漳州台商投资区","city":"漳州市","kind":"台商投资区","sourceUnitKey":"漳州市|漳州台商投资区"},"geometry":{"type":"Point","coordinates":[117.890,24.515]}},
+    {"type":"Feature","properties":{"name":"漳州开发区","city":"漳州市","kind":"经济开发区","sourceUnitKey":"漳州市|漳州开发区"},"geometry":{"type":"Point","coordinates":[118.063,24.398]}},
+    {"type":"Feature","properties":{"name":"高新开发区","city":"漳州市","kind":"高新开发区","sourceUnitKey":"漳州市|高新开发区"},"geometry":{"type":"Point","coordinates":[117.691,24.467]}},
+    {"type":"Feature","properties":{"name":"泉州台商投资区","city":"泉州市","kind":"台商投资区","sourceUnitKey":"泉州市|泉州台商投资区"},"geometry":{"type":"Point","coordinates":[118.756,24.987]}},
+    {"type":"Feature","properties":{"name":"泉州经济开发区","city":"泉州市","kind":"经济开发区","sourceUnitKey":"泉州市|泉州经济开发区"},"geometry":{"type":"Point","coordinates":[118.557,24.878]}},
+    {"type":"Feature","properties":{"name":"高新区","city":"福州市","kind":"高新开发区","sourceUnitKey":"福州市|高新区"},"geometry":{"type":"Point","coordinates":[119.204,25.992]}},
+    {"type":"Feature","properties":{"name":"君山片区","city":"平潭综合试验区","kind":"片区","sourceUnitKey":"平潭综合试验区|君山片区"},"geometry":{"type":"Point","coordinates":[119.837,25.600]}},
+    {"type":"Feature","properties":{"name":"海坛片区","city":"平潭综合试验区","kind":"片区","sourceUnitKey":"平潭综合试验区|海坛片区"},"geometry":{"type":"Point","coordinates":[119.782,25.505]}},
+    {"type":"Feature","properties":{"name":"苏平片区","city":"平潭综合试验区","kind":"片区","sourceUnitKey":"平潭综合试验区|苏平片区"},"geometry":{"type":"Point","coordinates":[119.701,25.590]}},
+    {"type":"Feature","properties":{"name":"金井片区","city":"平潭综合试验区","kind":"片区","sourceUnitKey":"平潭综合试验区|金井片区"},"geometry":{"type":"Point","coordinates":[119.766,25.441]}}
+  ]
+}
